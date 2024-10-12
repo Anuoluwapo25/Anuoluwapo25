@@ -29,7 +29,7 @@
 
 <div align="left">
   <a href="https://x.com/ali_anuoluwapo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=Black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
   <a href="https://www.instagram.com/YourInstagramUsername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
