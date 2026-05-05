@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Anuoluwapo and I'm a Full-stack developer.</h2>
 
 ###
 
