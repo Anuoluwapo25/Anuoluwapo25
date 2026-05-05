@@ -26,5 +26,4 @@ Building scalable, secure, and decentralized infrastructure is what gives me ene
 
 ```rust
                                                                                 
-                                                                                
-                                                                                zk::prove() -> Result<Truth, ()>
+                                                zk::prove() -> Result<Truth, ()>
