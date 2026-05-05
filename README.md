@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-I'm passionate about **zero-knowledge proofs**, **distributed systems**, and **cryptography**.  
+I'm passionate about zero-knowledge proofs, distributed systems, and cryptography.  
 
 Building scalable, secure, and decentralized infrastructure is what gives me energy.
 </div>
@@ -24,7 +24,7 @@ Building scalable, secure, and decentralized infrastructure is what gives me ene
 
 ###
 
-```rust
-
-
-zk::prove() -> Result<Truth, ()>
+                                                                                ```rust
+                                                                                
+                                                                                
+                                                                                zk::prove() -> Result<Truth, ()>
