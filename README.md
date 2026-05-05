@@ -15,7 +15,7 @@ Building scalable, secure, and decentralized infrastructure is what gives me ene
 ###
 
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuoluwapo25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&repo=__ZK-Implementation__" height="150" alt="languages graph" />
 </div>
 
